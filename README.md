@@ -4,8 +4,6 @@
 
 <img width="924" height="511" alt="Screenshot 2026-07-21 2 42 37 AM" src="https://github.com/user-attachments/assets/18763246-5a2a-488b-9bc9-db8bce40c66a" />
 
-<img width="700" height="76" alt="Empty" src="https://github.com/user-attachments/assets/1e05220d-457f-4175-ad1d-22098bd89983" />
-
 <p align="center">
 AuDHD | Mentally ill system host | Age regressor
 </p>
