@@ -10,7 +10,9 @@ AuDHD | Mentally ill system host | Age regressor
 
 <p align="center">
 Usually in Metalocalypse area with friends / in bakery on PonyTown
+</p>
 
+<p align="center">
   ###### [My Atabook](https://howglamorous.atabook.org/)
 </p>
 
